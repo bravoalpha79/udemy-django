@@ -1,2 +1,5 @@
 venv/
 env.py
+.vscode/
+*.sqlite3
+__pycache__/
